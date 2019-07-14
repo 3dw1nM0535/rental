@@ -2,5 +2,5 @@ import React from 'react';
 import './app.css';
 
 export default () => (
-  <div>Rental</div>
+  <div>Rental platform</div>
 );
